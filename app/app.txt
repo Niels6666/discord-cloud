@@ -1,0 +1,11 @@
+Application ID
+970724563698745374
+
+Client Secret
+yQpw71zV-1TA9NF4RJ5BkGii_PI9HuvG
+
+Public Key
+583025bb38723bf600d868a122ace7092caad375aac684ed1dcf093f50640722
+
+Bot Token
+OTcwNzI0NTYzNjk4NzQ1Mzc0.YnAHsw.E7rpvWcRUFcaDVsgabfs_mwNt0I
